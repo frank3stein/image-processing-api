@@ -25,6 +25,10 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 
 
 Test URL:
-![Test Image](./Screenshot%202023-03-14%20at%2016.38.45.png)
+![Local image tree](./Screenshot%202023-03-16%20at%2022.03.50.png)
+![Local image cat](./Screenshot%202023-03-16%20at%2022.03.57.png)
 
-http://image-filter-env.eba-j2tesjbh.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
+
+http://image-service-api-env.eba-zmmnp3at.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+![EB URL image cat](./Screenshot%202023-03-16%20at%2022.04.11.png)
